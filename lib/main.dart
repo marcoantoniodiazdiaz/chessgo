@@ -11,7 +11,7 @@ class MyApp extends StatelessWidget {
       debugShowCheckedModeBanner: false,
       title: 'ChessGo',
       home: Scaffold(
-        appBar: AppBar(title: const Text('ChessGo')),
+        appBar: AppBar(title: const Text('Hola como estas')),
         body: Center(child: Container(width: 100, height: 100, color: Colors.red)),
       ),
     );
